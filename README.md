@@ -1,4 +1,4 @@
-Privacy Policy
+## Privacy Policy
 The Tasbih App is committed to protecting user privacy and ensuring transparency in how we handle user data. This privacy policy outlines the data we collect, how it is used, and the measures we take to protect it, in compliance with Google Play’s User Data policy and applicable regulations like the Children’s Online Privacy Protection Act (COPPA).
 Data Collection
 The Tasbih App collects minimal data to provide its core functionality:
@@ -8,22 +8,22 @@ No Personal Data: The app does not collect personally identifiable information (
 No Third-Party Data Sharing: The app does not share any user data with third parties, as it does not integrate analytics, advertising, or other data-sharing services.
 Children’s Data: The app is suitable for all ages, including children under 13. It does not collect any data that requires parental consent under COPPA, as all data is stored locally and not transmitted.
 
-Data Usage
+# Data Usage
 
 Local Storage: The total count and user preferences are stored locally to maintain continuity between app sessions.
 Purpose: Data is used solely to enhance the user experience (e.g., tracking progress, maintaining theme preferences).
 
-Data Security
+# Data Security
 
 All data is stored locally on the user’s device and is not transmitted over the internet.
 The app employs standard device security measures provided by the operating system to protect stored data.
 
-User Rights
+# User Rights
 
 Users can reset their total count at any time via the app’s reset button.
 Since no personal data is collected, there are no additional user data access or deletion requests to process.
 
-Third-Party Services
+# Third-Party Services
 
 The app uses the vibration package for haptic feedback and shared_preferences for local storage. Neither package collects or transmits user data to external servers.
 
@@ -61,16 +61,3 @@ No Misrepresentation: Do not claim the app collects no data if any third-party S
 Children’s Privacy: If targeting children under 13, ensure the app remains free of ads and data collection requiring parental consent.
 Update Policy: If new features or third-party services are added, update the privacy policy and resubmit it in the Google Play Console.
 
-Contributing
-Contributions are welcome! To contribute:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit (git commit -m "Add feature").
-Push to the branch (git push origin feature-branch).
-Create a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-For support or inquiries, contact [Insert your contact email here].
