@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 The Tasbih App is committed to protecting user privacy and ensuring transparency in how we handle user data. This privacy policy outlines the data we collect, how it is used, and the measures we take to protect it, in compliance with Google Play’s User Data policy and applicable regulations like the Children’s Online Privacy Protection Act (COPPA).
 Data Collection
 The Tasbih App collects minimal data to provide its core functionality:
@@ -27,7 +27,7 @@ Since no personal data is collected, there are no additional user data access or
 
 The app uses the vibration package for haptic feedback and shared_preferences for local storage. Neither package collects or transmits user data to external servers.
 
-Compliance with COPPA
+## Compliance with COPPA
 The Tasbih App is designed to be safe for children under 13, as it:
 
 Does not collect personal or sensitive data.
@@ -35,15 +35,14 @@ Does not display advertisements.
 Does not require user accounts or online connectivity.
 Complies with Google Play’s Families Policy for apps targeting children.
 
-Contact Information
+## Contact Information
 For questions or concerns about this privacy policy, please contact us at:
 
 Email: algzeryahmed14@gmail.com
+
 App Version: 1.0.0
 
-Hosting the Privacy Policy
-To comply with Google Play requirements:
-
+##Hosting the Privacy Policy
 Host this privacy policy on a publicly accessible URL (e.g., GitHub Pages, a personal website, or a free hosting service like Firebase).
 Add the URL to your Google Play Store listing in the Google Play Console:
 Go to Google Play Console > App content > Privacy Policy.
